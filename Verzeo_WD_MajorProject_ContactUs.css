@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
 
 *{
   margin: 0;
   padding: 0;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 body{
@@ -50,7 +50,7 @@ body{
   resize: none;
 }
 .btn{
-  background: gray;
+  background: grey;
   text-align: center;
   color: #fff;
   padding: 12px;
